@@ -1,0 +1,1 @@
+INSERT INTO `postings` (`id`,`reference`, `value`, `date`, `hash`) VALUES ('1', '456', '3564', '2019-10-13', '4673')

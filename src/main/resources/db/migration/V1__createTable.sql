@@ -1,0 +1,1 @@
+CREATE TABLE `posting`.`postings` ( `id` INT NOT NULL , `reference` INT NOT NULL , `value` INT NOT NULL , `date` DATE NOT NULL , `hash` INT NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
